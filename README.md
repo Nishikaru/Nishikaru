@@ -11,7 +11,7 @@
   Email - mdsajed001@gmail.com <br/>
   Phone - +8801710073692
 - ⚡ Fun fact: I got a job done without having a portfolio 
-## :computer: Technologies that I know
+##<p align="center"> :computer: Technologies that I know<p/>
 <br>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
