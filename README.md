@@ -21,7 +21,9 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
 </p><br/>
+
 # About Me
+
 Hi there! I'm a front-end developer with a focus on React. Currently, I am expanding my skillset by learning Next.js and TypeScript. My expertise also includes Tailwind CSS and Bootstrap. I'm always striving to improve my skills and deliver high-quality projects to my clients. 
 
 Feel free to take a look at my projects and don't hesitate to reach out if you have any questions or if you'd like to work together.
