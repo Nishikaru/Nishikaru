@@ -38,6 +38,6 @@ Feel free to take a look at my projects and don't hesitate to reach out if you h
 <!-- <p align="center">
   <img src="[image-url.gif](https://media0.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif?cid=ecf05e470vbxpztpesvvbpfiiwcvyhmh5hnlx38xsi8hzzzg&rid=giphy.gif&ct=g)">
 </p> -->
-<span align="center">
+<p align="center">
 ![gif](https://media0.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif?cid=ecf05e470vbxpztpesvvbpfiiwcvyhmh5hnlx38xsi8hzzzg&rid=giphy.gif&ct=g)
-</span>
+</p>
