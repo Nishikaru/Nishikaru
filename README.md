@@ -10,7 +10,7 @@
 - 📫 How to reach me: <br/>
   Email - mdsajed001@gmail.com <br/>
   Phone - +8801710073692
-- ⚡ Fun fact: I got a job done without having a portfolio 
+- ⚡ Fun fact: "The first website was launched on August 6, 1991 and was dedicated to information about the World Wide Web project. It was created by Tim Berners-Lee, the inventor of the World Wide Web."
 ## <p align="center"> :computer: Technologies that I know<p/>
 <br>
 <p align="center">
