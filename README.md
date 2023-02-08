@@ -34,10 +34,7 @@ Feel free to take a look at my projects and don't hesitate to reach out if you h
 <a href="https://twitter.com/mdsajed001?s=20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="showroveroy" height="40" width="80" /></a>
 <a href="https://www.linkedin.com/in/nishikaru-sajed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="showrove" height="40" width="80" /></a>
 </p>
-
+<br/>
 <p align="center">
   <img src="https://media0.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif?cid=ecf05e470vbxpztpesvvbpfiiwcvyhmh5hnlx38xsi8hzzzg&rid=giphy.gif&ct=g">
 </p>
-<!-- <p align="center">
-![gif](https://media0.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif?cid=ecf05e470vbxpztpesvvbpfiiwcvyhmh5hnlx38xsi8hzzzg&rid=giphy.gif&ct=g)
-</p> -->
