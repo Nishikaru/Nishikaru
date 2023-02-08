@@ -35,4 +35,4 @@ Feel free to take a look at my projects and don't hesitate to reach out if you h
 <a href="https://www.linkedin.com/in/nishikaru-sajed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="showrove" height="40" width="80" /></a>
 </p>
 
-<iframe src="https://giphy.com/embed/fxI1G5PNC5esyNlIUs" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/grateful-gratitude-lumi-fxI1G5PNC5esyNlIUs">via GIPHY</a></p>
+![gif](https://media0.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif?cid=ecf05e470vbxpztpesvvbpfiiwcvyhmh5hnlx38xsi8hzzzg&rid=giphy.gif&ct=g)
