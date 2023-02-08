@@ -22,8 +22,15 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
 </p><br/>
 
-# About Me
+# <p align="center">About Me<p/>
 
 Hi there! I'm a front-end developer with a focus on React. Currently, I am expanding my skillset by learning Next.js and TypeScript. My expertise also includes Tailwind CSS and Bootstrap. I'm always striving to improve my skills and deliver high-quality projects to my clients. 
 
 Feel free to take a look at my projects and don't hesitate to reach out if you have any questions or if you'd like to work together.
+
+## <p align="center">:mailbox: You can also find me at<p/>
+
+<p align="center">
+<a href="https://twitter.com/mdsajed001?s=20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="showroveroy" height="40" width="80" /></a>
+<a href="https://www.linkedin.com/in/nishikaru-sajed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="showrove" height="40" width="80" /></a>
+</p>
